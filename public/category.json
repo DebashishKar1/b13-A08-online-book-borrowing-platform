@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Story",
+    "slug": "story",
+    "description": "Fiction, Novels, Literature & Drama",
+    "icon": "📖",
+    "bookCount": 245
+  },
+  {
+    "id": 2,
+    "name": "Tech",
+    "slug": "tech",
+    "description": "Programming, Software, Technology & Self Improvement",
+    "icon": "💻",
+    "bookCount": 189
+  },
+  {
+    "id": 3,
+    "name": "Science",
+    "slug": "science",
+    "description": "Physics, Biology, Astronomy & Popular Science",
+    "icon": "🔬",
+    "bookCount": 134
+  },
+  {
+    "id": 4,
+    "name": "History",
+    "slug": "history",
+    "description": "World History, Biographies & Ancient Civilizations",
+    "icon": "🏛️",
+    "bookCount": 98
+  },
+  {
+    "id": 5,
+    "name": "Self Help",
+    "slug": "self-help",
+    "description": "Personal Development, Motivation & Mindfulness",
+    "icon": "🌱",
+    "bookCount": 156
+  },
+  {
+    "id": 6,
+    "name": "Mystery",
+    "slug": "mystery",
+    "description": "Thriller, Crime & Detective Stories",
+    "icon": "🕵️",
+    "bookCount": 87
+  }
+]

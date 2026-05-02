@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "description": "A philosophical novel about following your dreams and listening to your heart.",
+    "category": "Story",
+    "available_quantity": 12,
+    "image_url": "https://picsum.photos/id/1015/300/400"
+  },
+  {
+    "id": 2,
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "description": "An easy and proven way to build good habits and break bad ones.",
+    "category": "Tech",
+    "available_quantity": 8,
+    "image_url": "https://picsum.photos/id/201/300/400"
+  },
+  {
+    "id": 3,
+    "title": "Sapiens",
+    "author": "Yuval Noah Harari",
+    "description": "A brief history of humankind from the Stone Age to the present.",
+    "category": "Science",
+    "available_quantity": 15,
+    "image_url": "https://picsum.photos/id/237/300/400"
+  },
+  {
+    "id": 4,
+    "title": "The Midnight Library",
+    "author": "Matt Haig",
+    "description": "Between life and death there is a library, and within that library are infinite possibilities.",
+    "category": "Story",
+    "available_quantity": 6,
+    "image_url": "https://picsum.photos/id/1016/300/400"
+  },
+  {
+    "id": 5,
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "description": "A science fiction masterpiece about politics, religion, and power on a desert planet.",
+    "category": "Science",
+    "available_quantity": 9,
+    "image_url": "https://picsum.photos/id/133/300/400"
+  },
+  {
+    "id": 6,
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "description": "A handbook of agile software craftsmanship and best coding practices.",
+    "category": "Tech",
+    "available_quantity": 11,
+    "image_url": "https://picsum.photos/id/180/300/400"
+  },
+  {
+    "id": 7,
+    "title": "The Psychology of Money",
+    "author": "Morgan Housel",
+    "description": "Timeless lessons on wealth, greed, and happiness.",
+    "category": "Tech",
+    "available_quantity": 14,
+    "image_url": "https://picsum.photos/id/201/300/400"
+  },
+  {
+    "id": 8,
+    "title": "Educated",
+    "author": "Tara Westover",
+    "description": "A memoir about a young girl who grows up in survivalist family and seeks education.",
+    "category": "Story",
+    "available_quantity": 7,
+    "image_url": "https://picsum.photos/id/251/300/400"
+  },
+  {
+    "id": 9,
+    "title": "Project Hail Mary",
+    "author": "Andy Weir",
+    "description": "A lone astronaut must save the Earth from catastrophe in this thrilling sci-fi.",
+    "category": "Science",
+    "available_quantity": 10,
+    "image_url": "https://picsum.photos/id/133/300/400"
+  },
+  {
+    "id": 10,
+    "title": "The Silent Patient",
+    "author": "Alex Michaelides",
+    "description": "A woman shoots her husband and never speaks again. A gripping psychological thriller.",
+    "category": "Story",
+    "available_quantity": 5,
+    "image_url": "https://picsum.photos/id/1015/300/400"
+  },
+  {
+    "id": 11,
+    "title": "Deep Work",
+    "author": "Cal Newport",
+    "description": "Rules for focused success in a distracted world.",
+    "category": "Tech",
+    "available_quantity": 13,
+    "image_url": "https://picsum.photos/id/201/300/400"
+  },
+  {
+    "id": 12,
+    "title": "A Brief History of Time",
+    "author": "Stephen Hawking",
+    "description": "A landmark volume in science writing about the universe.",
+    "category": "Science",
+    "available_quantity": 8,
+    "image_url": "https://picsum.photos/id/237/300/400"
+  }
+]
